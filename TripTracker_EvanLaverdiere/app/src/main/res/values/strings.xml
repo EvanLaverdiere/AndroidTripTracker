@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">TripTracker_EvanLaverdiere</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="edit_button_label">Edit</string>
+    <string name="delete_button_label">Delete</string>
+    <string name="type_label">Type</string>
+    <string name="end_label">End</string>
+    <string name="start_label">Start</string>
+    <string name="time_label">Time</string>
+    <string name="date_label">Date</string>
+    <string name="trip_id_label">Trip</string>
+    <string name="addTripFragmentLabel">ADD NEW TRIP</string>
+    <string name="cancel_button_label">Cancel</string>
+    <string name="confirm_button_label">Confirm</string>
+    <string name="action_menu_home">Home</string>
+    <string name="action_menu_add">Add</string>
+    <string name="confirm_cancellation_message">Are you sure you want to cancel adding this Trip?</string>
+    <string name="date_filter_hint">Filter Trips by Date</string>
+    <string name="confirm_delete_title">Confirm Deletion</string>
+    <string name="confirm_delete_message">Are you sure you want to delete this Trip?</string>
+    <string name="editTripFragmentLabel">Edit Trip</string>
+    <string-array name="trip_types">
+        <item>Personal</item>
+        <item>Uber</item>
+    </string-array>
+</resources>
